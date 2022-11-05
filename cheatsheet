@@ -1,0 +1,12 @@
+git branch
+git branch <branch-name>
+git branch -d <branch-name>
+git switch <branch-name>
+git switch -c <branch-name>
+git branch -v
+git add
+git commit
+git commit -m
+git merge <branchA> <branchB>
+git diff <branchA> <branchB>
+git log --oneline --graph --all
